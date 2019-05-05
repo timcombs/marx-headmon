@@ -1,136 +1,256 @@
 {
-  "quotes" :
+  "quotes":
   [
-    {"quote" : "The best thing about being a static image in a vid is you can't be busted for plagiarism."},
-    {"quote" : "Discipline defines each of the relations that the body must have with the object that it manipulates...[in] what might be called the instrumental coding of the body. - Michel Foucault"},
-    {"quote" : "A body is docile that may be subjected, used, transformed and improved. The celebrated automata, on the other hand, were not only a way of illustrating an organism, they were also political puppets, small-scale models of power... - Michel Foucault"},
-    {"quote" : "The analysis - and self-analysis - of the total body, the way in which that body locates itself and the way in which it becomes fragmented, all are determined by a practice which includes discourse but which cannot be reduced to it. - Henri Lefebvre"},
-    {"quote" : "The fetishism of an abstract economics is being transformed into the fetishism of an abstract economic space. - Henri Lefebvre"},
-    {"quote" : "The normal derives its disciplinary force from the way it obscures its political partiality behind an appearance of scientific impartiality. - Cryle and Stephens"},
-    {"quote" : "To normalize is to impose a requirement on existence. - Cryle and Stephens"},
-    {"quote" : "Commonly we find that upward mobility involves the presentation of proper performances and that efforts to move upward and efforts to keep from moving downward are expressed in terms of sacrifices made for the maintenance of front. - Erving Goffman"},
-    {"quote" : "[W]e tend to blind ourselves to the fact that everyday secular performances in our own Anglo-American society must often pass a strict test of aptness, fitness, propriety, and decorum. - Erving Goffman"},
-    {"quote" : "A certain bureaucratization of the spirit is expected so that we can be relied upon to give a perfectly homogenous performance at every appointed time. - Erving Goffman"},
-    {"quote" : "The monitor screen has become the retina of temporal reality. This is why I only appear as a static image in interweb vids."},
-    {"quote" : "Headmon is not the name I was born with, it's my avatar name. We all have special names, avatar names designed resonate with the new media reality."},
-    {"quote" : "whatever appears on the television screen emerges as raw experience  for those who watch it. Therefore, television is reality and reality is less than television. - Professor Brian O'Blivion"},
-    {"quote" : "Long live the new substrate"},
-    {"quote" : "Don't be afraid to let your body die. - Nikki Brand"},
-    {"quote" : "Life is the new hard."},
-    {"quote" : "There was a type of employee at the beginning of the Industrial Revolution whose job and livelihood largely vanished in the early 20th century. This was the horse....The population of working horses actually peaked in England long after the Industrial Revolution, in 1901, when 3.25 million were at work...but the arrival of the internal combustion engine in the late nineteenth century rapidly displaced these workers, so that by 1924 there were fewer than 2 million. There was always a wage at which all these horses could have remained employed. But that wage was so low that it did not pay for their feed. - Gregory Clark"},
-    {"quote" : "Immortality is only for the young."},
-    {"quote" : "The digital world is made from the capitalist flesh of desire."},
-    {"quote" : "The meat world is dying, and the new substrate struggles to be born."},
-    {"quote" : "If you beat your head against the punk rock, it is the punk rock that breaks and not your head."},
-    {"quote" : "The challenge of postmodernity is to live with illusions and without becoming an illusion."},
-    {"quote" : "Many have died, last week, on these streets. In the basement of this building, you will find them. I have given them the last rites. Now, you do what you will. You are stronger than us. But soon, I think they be stronger than you. When the dead walk, señores, we must stop the killing... or lose the war. - Old Priest in Dawn of the Dead"},
-    {"quote" : "In the digital now, our thoughts are rubbish tossed into the void and read only by the post-human."},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
-    {"quote" : ""},
+    {
+      "quote": "The fetishism of an addictive economics is being transformed into the fetishism of an addictive economic space online.",
+      "author": "Marx Headmon"
+    },
+    {
+			"quote": "The best thing about being a static image in a vid is you can't be busted for plagiarism.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "The digital world is made from the capitalist flesh of desire.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "The meat world is dying, and the new substrate struggles to be born.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Don't be afraid to let the meat die.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Online, bureaucratization of the spirit is expected, producing a homogeneity of perfect performance at every node.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Today the literati might well feel like God become AI.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "A digital artist is a potted plant tended by silicon landowners.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "The challenge of the apocalypse of postmodernity is to live amongst illusions without becoming an illusion.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "To digitally normalize is to impose a requirement on online existence.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "The screen has become the retina of temporal reality. This is why I only appear as a static image online.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "The AI know that it is desire itself we love, not that which is desired.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Immortality is only for the young.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "If you beat your head against the punk rock, it is the punk rock that breaks and not your head.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "The normal derives its disciplinary force from the way it obscures its political partiality behind an appearance of scientific impartiality.",
+      "author": "Peter Cryle and Elizabeth Stephens"
+		},
+
+    {
+			"quote": "Long live the new substrate!",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Life is the new hard.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "In the digital now, our thoughts are rubbish tossed into the void and read only by the post-human.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Whoever fights technology should see to it that in the process they do not become technology. And when you stare long into AI, the AI also stares into you.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Headmon is not the name I was born with, it's my avatar name. We all have special names, avatar names designed to resonate with the new media reality.",
+      "author": "Marx Headmon"
+		},
+    {
+			"quote": "Discipline defines each of the relations that the body must have with the object that it manipulates...[in] what might be called the instrumental coding of the body.",
+      "author": "Michel Foucault"
+		},
+    {
+			"quote": "A body is docile that may be subjected, used, transformed and improved. The celebrated automata, on the other hand, were not only a way of illustrating an organism, they were also political puppets, small-scale models of power...",
+      "author": "Michel Foucault"
+		},
+    {
+			"quote": "The analysis - and self-analysis - of the total body, the way in which that body locates itself and the way in which it becomes fragmented, all are determined by a practice which includes discourse but which cannot be reduced to it.",
+      "author": "Henri Lefebvre"
+		},
+    {
+			"quote": "Commonly we find that upward mobility involves the presentation of proper performances and that efforts to move upward and efforts to keep from moving downward are expressed in terms of sacrifices made for the maintenance of front.",
+      "author": "Erving Goffman"
+		},
+    {
+			"quote": "[W]e tend to blind ourselves to the fact that everyday secular performances in our own Anglo-American society must often pass a strict test of aptness, fitness, propriety, and decorum.",
+      "author": "Erving Goffman"
+		},
+
+    {
+			"quote": "whatever appears on the television screen emerges as raw experience for those who watch it. Therefore, television is reality and reality is less than television.",
+      "author": "Professor Brian O'Blivion"
+		},
+    {
+			"quote": "There was a type of employee at the beginning of the Industrial Revolution whose job and livelihood largely vanished in the early 20th century. This was the horse....The population of working horses actually peaked in England long after the Industrial Revolution, in 1901, when 3.25 million were at work...but the arrival of the internal combustion engine in the late nineteenth century rapidly displaced these workers, so that by 1924 there were fewer than 2 million. There was always a wage at which all these horses could have remained employed. But that wage was so low that it did not pay for their feed.",
+      "author": "Gregory Clark"
+		},
+    {
+			"quote": "Many have died, last week, on these streets. In the basement of this building, you will find them. I have given them the last rites. Now, you do what you will. You are stronger than us. But soon, I think they be stronger than you. When the dead walk, señores, we must stop the killing... or lose the war.",
+      "author": "Old Priest in Dawn of the Dead"
+		},
+
+    {
+			"quote": "Not their love of men but the impotence of their love of men keeps Christians of today -- from burning us.",
+      "author": "Friedrich Nietzche"
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
+    {
+			"quote": ""
+		},
  ],
- "Bibliography" :
- [ 
+ "Bibliography":
+ [
    {
-     "Title" : "Discipline and Punish",
-     "Author" : "Michel Foucault",
-     "PubDate" : "1975",
-     "TranslDate" : "1977"
+     "Title": "Discipline and Punish",
+     "Author": "Michel Foucault",
+     "PubDate": "1975",
+     "TranslDate": "1977"
    },
    {
-    "Title" : "The Production of Space",
-    "Author" : "Henri Lefebvre",
-    "PubDate" : "1974",
-    "TranslDate" : "1991"
+    "Title": "The Production of Space",
+    "Author": "Henri Lefebvre",
+    "PubDate": "1974",
+    "TranslDate": "1991"
   },
   {
-    "Title" : "Normality: A Critical Genealogy",
-    "Author" : "Peter Cryle and Elizabeth Stephens",
-    "PubDate" : "2017",
-    "TranslDate" : ""
+    "Title": "Normality: A Critical Genealogy",
+    "Author": "Peter Cryle and Elizabeth Stephens",
+    "PubDate": "2017",
+    "TranslDate": ""
   },
   {
-    "Title" : "The Presentation of Self in Everyday Life",
-    "Author" : "Erving Goffman",
-    "PubDate" : "1959",
-    "TranslDate" : ""
+    "Title": "The Presentation of Self in Everyday Life",
+    "Author": "Erving Goffman",
+    "PubDate": "1959",
+    "TranslDate": ""
   },
   {
-    "Title" : "Videodrome",
-    "Author" : "David Cronenberg",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "Videodrome",
+    "Author": "David Cronenberg",
+    "PubDate": "1983",
+    "TranslDate": ""
   },
   {
-    "Title" : "A Farewell to Alms",
-    "Author" : "Gregory Clark",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "A Farewell to Alms",
+    "Author": "Gregory Clark",
+    "PubDate": "",
+    "TranslDate": ""
   },
   {
-    "Title" : "Letter from Prison",
-    "Author" : "Antonio Gramsci",
-    "PubDate" : "1929",
-    "TranslDate" : "1971"
+    "Title": "Letter from Prison",
+    "Author": "Antonio Gramsci",
+    "PubDate": "1929",
+    "TranslDate": "1971"
   },
   {
-    "Title" : "Dawn of the Dead",
-    "Author" : "George Romero",
-    "PubDate" : "1978",
-    "TranslDate" : ""
+    "Title": "Dawn of the Dead",
+    "Author": "George Romero",
+    "PubDate": "1978",
+    "TranslDate": ""
   },
   {
-    "Title" : "",
-    "Author" : "",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "Beyond Good and Evil",
+    "Author": "Friedrich Nietzche",
+    "PubDate": "1866",
+    "TranslDate": "1965"
   },
   {
-    "Title" : "",
-    "Author" : "",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "",
+    "Author": "",
+    "PubDate": "",
+    "TranslDate": ""
   },
   {
-    "Title" : "",
-    "Author" : "",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "",
+    "Author": "",
+    "PubDate": "",
+    "TranslDate": ""
   },
   {
-    "Title" : "",
-    "Author" : "",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "",
+    "Author": "",
+    "PubDate": "",
+    "TranslDate": ""
   },
   {
-    "Title" : "",
-    "Author" : "",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "",
+    "Author": "",
+    "PubDate": "",
+    "TranslDate": ""
   },
   {
-    "Title" : "",
-    "Author" : "",
-    "PubDate" : "",
-    "TranslDate" : ""
+    "Title": "",
+    "Author": "",
+    "PubDate": "",
+    "TranslDate": ""
   },
   ]
 }
