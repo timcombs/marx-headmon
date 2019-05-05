@@ -121,51 +121,14 @@
       "author": "Friedrich Nietzche"
 		},
     {
-			"quote": ""
+      "quote": "Even the curmudgeon enjoys human touch.",
+      "author": "deSolid State"
 		},
     {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
-    {
-			"quote": ""
-		},
- ],
+      "quote": "Choosing nonconformity is a form of subalterity.",
+      "author": "deSolid State"
+		}
+  ],
  "Bibliography":
  [
    {
@@ -179,78 +142,54 @@
     "Author": "Henri Lefebvre",
     "PubDate": "1974",
     "TranslDate": "1991"
-  },
-  {
-    "Title": "Normality: A Critical Genealogy",
-    "Author": "Peter Cryle and Elizabeth Stephens",
-    "PubDate": "2017",
-    "TranslDate": ""
-  },
-  {
-    "Title": "The Presentation of Self in Everyday Life",
-    "Author": "Erving Goffman",
-    "PubDate": "1959",
-    "TranslDate": ""
-  },
-  {
-    "Title": "Videodrome",
-    "Author": "David Cronenberg",
-    "PubDate": "1983",
-    "TranslDate": ""
-  },
-  {
-    "Title": "A Farewell to Alms",
-    "Author": "Gregory Clark",
-    "PubDate": "",
-    "TranslDate": ""
-  },
-  {
-    "Title": "Letter from Prison",
-    "Author": "Antonio Gramsci",
-    "PubDate": "1929",
-    "TranslDate": "1971"
-  },
-  {
-    "Title": "Dawn of the Dead",
-    "Author": "George Romero",
-    "PubDate": "1978",
-    "TranslDate": ""
-  },
-  {
-    "Title": "Beyond Good and Evil",
-    "Author": "Friedrich Nietzche",
-    "PubDate": "1866",
-    "TranslDate": "1965"
-  },
-  {
-    "Title": "",
-    "Author": "",
-    "PubDate": "",
-    "TranslDate": ""
-  },
-  {
-    "Title": "",
-    "Author": "",
-    "PubDate": "",
-    "TranslDate": ""
-  },
-  {
-    "Title": "",
-    "Author": "",
-    "PubDate": "",
-    "TranslDate": ""
-  },
-  {
-    "Title": "",
-    "Author": "",
-    "PubDate": "",
-    "TranslDate": ""
-  },
-  {
-    "Title": "",
-    "Author": "",
-    "PubDate": "",
-    "TranslDate": ""
-  },
+    },
+    {
+      "Title": "Normality: A Critical Genealogy",
+      "Author": "Peter Cryle and Elizabeth Stephens",
+      "PubDate": "2017",
+      "TranslDate": ""
+    },
+    {
+      "Title": "The Presentation of Self in Everyday Life",
+      "Author": "Erving Goffman",
+      "PubDate": "1959",
+      "TranslDate": ""
+    },
+    {
+      "Title": "Videodrome",
+      "Author": "David Cronenberg",
+      "PubDate": "1983",
+      "TranslDate": ""
+    },
+    {
+      "Title": "A Farewell to Alms",
+      "Author": "Gregory Clark",
+      "PubDate": "",
+      "TranslDate": ""
+    },
+    {
+      "Title": "Letter from Prison",
+      "Author": "Antonio Gramsci",
+      "PubDate": "1929",
+      "TranslDate": "1971"
+    },
+    {
+      "Title": "Dawn of the Dead",
+      "Author": "George Romero",
+      "PubDate": "1978",
+      "TranslDate": ""
+    },
+    {
+      "Title": "Beyond Good and Evil",
+      "Author": "Friedrich Nietzche",
+      "PubDate": "1866",
+      "TranslDate": "1965"
+    },
+    {
+      "Title": "Notes Toward a Post-Artist Eschatology",
+      "Author": "deSolid State",
+      "PubDate": "2018",
+      "TranslDate": ""
+    }
   ]
 }
